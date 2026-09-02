@@ -2,14 +2,14 @@
 
 <p align="center">
   <img
-    src="https://github.com/fayzur030/fayzur030/blob/main/ChatGPT%20Image%20banner%20Jul%2013%2C%202026%2C%2007_44_46%20PM.png"
+    src="https://github.com/fayzur030/fayzur030/blob/main/"
     width="100%"
-    alt="Md. Fayzur Rahman Banner"
+    alt="Md. Tanvir Ahammed Mizan"
   />
 </p>
 
 <h1 align="center">
-  Hi 👋, I'm Md. Fayzur Rahman
+  Hi 👋, I'm Md. Tanvir A Mizan
 </h1>
 
 <p align="center">
@@ -39,7 +39,7 @@
 
 ## 👨‍💻 About Me
 
-I'm **Md. Fayzur Rahman**, a passionate **Full-Stack Web Developer** from Bangladesh.
+I'm **Md. Tanvir Ahammed Mizan **, a passionate **Full-Stack Web Developer** from Bangladesh.
 
 I enjoy building modern, responsive, and user-friendly web applications from frontend to backend. Currently, I'm focusing on strengthening my skills in **JavaScript, TypeScript, React.js, Next.js, Node.js, Express.js, and databases** while working on real-world projects.
 
