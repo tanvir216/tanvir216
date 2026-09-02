@@ -268,7 +268,7 @@ A modern and responsive recipe-finding web app built with **React.js** and **RES
 - 🔄 Loading state
 - ❌ Error handling
 
-🔗 **Live Demo:** <a href="https://fayzur-recipe-finder-application.netlify.app/">View Project</a>
+🔗 **Live Demo:** <a href="https://https://versityreport.lovable.app//">View Project</a>
 
 ### 🎬 Movie Application
 
