@@ -1,8 +1,9 @@
 <!-- ======================= HEADER ======================= -->
 
+
 <p align="center">
   <img
-    src="https:/<imgChatGPT Image Sep 2, 2026, 11_49_29 PM.png/github.com/tanvir216/tanvir216/blob/main/"
+    src="https://raw.githubusercontent.com/tanvir216/tanvir216/main/github-banner.png"
     width="100%"
     alt="Md. Tanvir Ahammed Mizan"
   />
