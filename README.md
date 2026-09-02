@@ -2,7 +2,7 @@
 
 <p align="center">
   <img
-    src="https://raw.githubusercontent.com/tanvir216/tanvir216/main/ChatGPT Image Sep 2, 2026, 11_49_29 PM.png
+    src="https://raw.githubusercontent.com/tanvir216/tanvir216/main/ChatGPT Image Sep 2, 2026, 11_49_29 PM.png"
     alt="Md. Tanvir Ahammed Mizan"
   />
 </p>
