@@ -11,15 +11,7 @@
   Hi 👋, I'm Md. Tanvir A Mizan
 </h1>
 
-<p align="center">
-  <a href="https://git.io/typing-svg">
 
-
-      src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=1000&color=6366F1&center=true&vCenter=true&width=800&lines=Passionate+Full-Stack+Web+Developer;JavaScript+Enthusiast;React.js+%7C+Node.js+%7C+Next.js+%7C+TypeScript;Interested+in+Software+Engineering"
-      alt="Typing SVG"
-    />
-  </a>
-</p>
 
 <!-- <p align="center">
   <a href="https://github.com/tanvir216">
