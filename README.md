@@ -2,7 +2,7 @@
 
 <p align="center">
   <img
-    src="https://github.com/fayzur030/fayzur030/blob/main/"
+    src="https://github.com/tanvir216/tanvir216/blob/main/"
     width="100%"
     alt="Md. Tanvir Ahammed Mizan"
   />
@@ -22,14 +22,14 @@
 </p>
 
 <!-- <p align="center">
-  <a href="https://github.com/fayzur030">
+  <a href="https://github.com/tanvir216">
     <img
-      src="https://img.shields.io/github/followers/fayzur030?label=Followers&style=for-the-badge"
+      src="https://img.shields.io/github/followers/tanvir216?label=Followers&style=for-the-badge"
       alt="GitHub Followers"
     />
   </a>
   <img
-    src="https://komarev.com/ghpvc/?username=fayzur030&label=Profile%20Views&color=6366F1&style=for-the-badge"
+    src="https://komarev.com/ghpvc/?username=tanvir216&label=Profile%20Views&color=6366F1&style=for-the-badge"
     alt="Profile Views"
   />
 </p> -->
@@ -45,7 +45,7 @@ I enjoy building modern, responsive, and user-friendly web applications from fro
 
 I'm passionate about writing clean, maintainable code and building scalable web applications. I’m continuously learning new technologies and improving my problem-solving skills to become a better software engineer.
 
-- 👋 Hi, I am <a href="https://github.com/fayzur030">fayzur030</a>
+- 👋 Hi, I am <a href="https://github.com/tanvir216">tanvir216</a>
 - 🚀 Currently working on **React.js & TypeScript** for frontend development
 - ⚛️ Building modern web applications with **React.js & Next.js**
 - 🎨 Creating responsive interfaces with **Tailwind CSS**
@@ -53,7 +53,7 @@ I'm passionate about writing clean, maintainable code and building scalable web 
 - 🗄️ Learning and working with **MongoDB**
 - 📚 Continuously improving my **JavaScript & TypeScript** skills
 - 💡 Interested in building clean, scalable, and maintainable applications
-- 📥 Feel free to reach me: <a href="mailto:mdfayzurrahman030@gmail.com">Email</a>
+- 📥 Feel free to reach me: <a href="mailto:tanvirahammed8000@gmail.com">Email</a>
 
 
 <!-- ======================= TECHNOLOGY STACK ======================= -->
@@ -140,7 +140,7 @@ I'm passionate about writing clean, maintainable code and building scalable web 
 ## 📍 Location & Contact : 
 
 - **Location:** Dhaka, Bangladesh 
-- 📧 **Email:** mdfayzurrahman030@gmail.com
+- 📧 **Email:** tanvirahammed8000@gmail.com
 
 <!-- ======================= CONNECT ======================= -->
 
@@ -148,17 +148,17 @@ I'm passionate about writing clean, maintainable code and building scalable web 
 
 <p align="center">
 
-<a href="https://www.linkedin.com/in/md-fayzur-rahman-00a673380/">
+<a href="www.linkedin.com/in/md-tanvir-ahammed-mizan-4aa302431">
   <img src="https://skillicons.dev/icons?i=linkedin" height="45" alt="LinkedIn" />
 </a>
 &nbsp;&nbsp;&nbsp;
 
-<a href="https://github.com/fayzur030">
+<a href="https://github.com/tanvir216">
   <img src="https://skillicons.dev/icons?i=github" height="45" alt="GitHub" />
 </a>
 &nbsp;&nbsp;&nbsp;
 
-<a href="https://mail.google.com/mail/?view=cm&fs=1&to=mdfayzurrahman030@gmail.com">
+<a href="https://mail.google.com/mail/?view=cm&fs=1&to=tanvirahammed8000@gmail.com">
   <img
     src="https://img.icons8.com/color/48/gmail-new.png"
     height="45"
@@ -176,31 +176,31 @@ I'm passionate about writing clean, maintainable code and building scalable web 
 
 <p align="center">
   <img
-    src="https://github-readme-stats.shion.dev/api?username=fayzur030&theme=tokyonight&hide_border=true&include_all_commits=false&count_private=false"
+    src="https://github-readme-stats.shion.dev/api?username=tanvir216&theme=tokyonight&hide_border=true&include_all_commits=false&count_private=false"
     width="42%"
   />
   &nbsp;&nbsp;&nbsp;&nbsp;
   <img
-    src="https://streak-stats.demolab.com/?user=fayzur030&theme=tokyonight&hide_border=true"
+    src="https://streak-stats.demolab.com/?user=tanvir216&theme=tokyonight&hide_border=true"
     width="46%"
   />
 </p>
 
 <!-- <p align="center"> -->
   <!-- <img
-    src="https://github-readme-stats.shion.dev/api?username=fayzur030&theme=tokyonight&hide_border=true&include_all_commits=false&count_private=false"
+    src="https://github-readme-stats.shion.dev/api?username=tanvir216&theme=tokyonight&hide_border=true&include_all_commits=false&count_private=false"
     height="180"
     alt="GitHub Stats"
   />
   &nbsp;&nbsp;&nbsp;
   <img
-    src="https://streak-stats.demolab.com/?user=fayzur030&theme=tokyonight&hide_border=true"
+    src="https://streak-stats.demolab.com/?user=tanvir216&theme=tokyonight&hide_border=true"
     height="180"
     alt="GitHub Streak"
   />
   &nbsp;&nbsp;&nbsp; -->
   <!-- <img
-    src="https://github-readme-stats.shion.dev/api/top-langs/?username=fayzur030&theme=tokyonight&hide_border=true&include_all_commits=false&count_private=false&layout=compact"
+    src="https://github-readme-stats.shion.dev/api/top-langs/?username=tanvir216&theme=tokyonight&hide_border=true&include_all_commits=false&count_private=false&layout=compact"
     height="180"
     alt="Top Languages"
   /> 
@@ -209,19 +209,19 @@ I'm passionate about writing clean, maintainable code and building scalable web 
 
 <!-- <p align="center"> -->
   <!-- <img
-    src="https://github-readme-stats.shion.dev/api?username=fayzur030&theme=tokyonight&hide_border=false&include_all_commits=false&count_private=false"
+    src="https://github-readme-stats.shion.dev/api?username=tanvir216&theme=tokyonight&hide_border=false&include_all_commits=false&count_private=false"
     height="180"
     alt="GitHub Stats"
   />
   &nbsp;&nbsp;&nbsp;
   <img
-    src="https://streak-stats.demolab.com/?user=fayzur030&theme=tokyonight&hide_border=false"
+    src="https://streak-stats.demolab.com/?user=tanvir216&theme=tokyonight&hide_border=false"
     height="180"
     alt="GitHub Streak"
   />
   &nbsp;&nbsp;&nbsp;
   <img
-    src="https://github-readme-stats.shion.dev/api/top-langs/?username=fayzur030&theme=tokyonight&hide_border=false&include_all_commits=false&count_private=false&layout=compact"
+    src="https://github-readme-stats.shion.dev/api/top-langs/?username=tanvir216&theme=tokyonight&hide_border=false&include_all_commits=false&count_private=false&layout=compact"
     height="180"
     alt="Top Languages"
   /> -->
