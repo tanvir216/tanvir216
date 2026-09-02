@@ -260,58 +260,9 @@ A modern and responsive recipe-finding web app built with **React.js** and **RES
 - 🔄 Loading state
 - ❌ Error handling
 
-🔗 **Live Demo:** <a href="https://https://versityreport.lovable.app//">View Project</a>
+ 🔗 **Live Demo:** [View Project](https://versityreport.lovable.app/)
 
-### 🎬 Movie Application
 
-A modern and responsive movie application that allows users to explore movies, view movie details, and discover popular and trending content through API integration.
-
-**Tech Stack:** React.js • TypeScript • Tailwind CSS • REST API
-
-**Features:**
-
-- 🎬 Movie listing
-- 🔍 Movie search
-- 🔌 REST API integration
-- ⭐ Popular & trending movies
-- 📄 Movie details
-- 📱 Responsive design
-- ♻️ Reusable components
-
-🔗 **Live Demo:**  <a href="https://movie-app-swart-six-28.vercel.app/">View Project</a>
-
-### 📝 Todo Application
-
-A modern and responsive todo application that allows users to create, manage, update, and delete tasks with a clean and user-friendly interface.
-
-**Tech Stack:** React.js • TypeScript • Tailwind CSS
-
-**Features:**
-
-- ➕ Add new tasks
-- ✏️ Edit tasks
-- 🗑️ Delete tasks
-- ✅ Mark tasks as completed
-- 📋 Manage todo list
-- 📱 Responsive design
-- ♻️ Reusable components
-
-🔗 **Live Demo:** <a href="https://todo-app-sage-six-10.vercel.app/">View Project</a>
-
-### 🛒 E-Commerce Application
-
-A modern and responsive e-commerce application with product listing, API integration, and a clean user interface.
-
-**Tech Stack:** React.js • TypeScript • Tailwind CSS • REST API
-
-**Features:**
-- 🛍️ Product listing
-- 🔌 REST API integration
-- 📱 Responsive design
-- 📦 Product details
-- ♻️ Reusable components
-
-🔗 **Live Demo:** <a href="https://fayzur-ecommerce.netlify.app/">View Project</a>
 
 
 <!-- ======================= GOALS ======================= -->
