@@ -1,20 +1,346 @@
-<h1 align="center">Hi 👋, I'm MD:Tanvir Ahammed Mizan</h1>
-<h3 align="center">A passionate frontend developer from BD</h3>
+<!-- ======================= HEADER ======================= -->
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=tanvir216" alt="tanvir216" /></a> </p>
-
-- 📫 How to reach me **tanvirahammed8000@gamil.com**
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/www.linkedin.com/in/md-tanvir-ahammed-mizan-4aa302431" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="www.linkedin.com/in/md-tanvir-ahammed-mizan-4aa302431" height="30" width="40" /></a>
+<p align="center">
+  <img
+    src="https://github.com/fayzur030/fayzur030/blob/main/ChatGPT%20Image%20banner%20Jul%2013%2C%202026%2C%2007_44_46%20PM.png"
+    width="100%"
+    alt="Md. Fayzur Rahman Banner"
+  />
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://developer.android.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original-wordmark.svg" alt="android" width="40" height="40"/> </a> <a href="https://www.gnu.org/software/bash/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-icon.svg" alt="bash" width="40" height="40"/> </a> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://cassandra.apache.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/apache_cassandra/apache_cassandra-icon.svg" alt="cassandra" width="40" height="40"/> </a> <a href="https://circleci.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/circleci/circleci-icon.svg" alt="circleci" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cs/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="csharp" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.docker.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://kafka.apache.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/apache_kafka/apache_kafka-icon.svg" alt="kafka" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://nestjs.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nestjs/nestjs-plain.svg" alt="nestjs" width="40" height="40"/> </a> <a href="https://www.nginx.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nginx/nginx-original.svg" alt="nginx" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://www.postgresql.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://realm.io/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/bestofjs/bestofjs-webui/8665e8c267a0215f3159df28b33c365198101df5/public/logos/realm.svg" alt="realm" width="40" height="40"/> </a> <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/> </a> </p>
+<h1 align="center">
+  Hi 👋, I'm Md. Fayzur Rahman
+</h1>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=tanvir216&show_icons=true&locale=en&layout=compact" alt="tanvir216" /></p>
+<p align="center">
+  <a href="https://git.io/typing-svg">
+    <img
+      src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=1000&color=6366F1&center=true&vCenter=true&width=800&lines=Passionate+Full-Stack+Web+Developer;JavaScript+Enthusiast;React.js+%7C+Node.js+%7C+Next.js+%7C+TypeScript;Interested+in+Software+Engineering"
+      alt="Typing SVG"
+    />
+  </a>
+</p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=tanvir216&show_icons=true&locale=en" alt="tanvir216" /></p>
+<!-- <p align="center">
+  <a href="https://github.com/fayzur030">
+    <img
+      src="https://img.shields.io/github/followers/fayzur030?label=Followers&style=for-the-badge"
+      alt="GitHub Followers"
+    />
+  </a>
+  <img
+    src="https://komarev.com/ghpvc/?username=fayzur030&label=Profile%20Views&color=6366F1&style=for-the-badge"
+    alt="Profile Views"
+  />
+</p> -->
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=tanvir216&" alt="tanvir216" /></p>
+
+<!-- ======================= ABOUT ME ======================= -->
+
+## 👨‍💻 About Me
+
+I'm **Md. Fayzur Rahman**, a passionate **Full-Stack Web Developer** from Bangladesh.
+
+I enjoy building modern, responsive, and user-friendly web applications from frontend to backend. Currently, I'm focusing on strengthening my skills in **JavaScript, TypeScript, React.js, Next.js, Node.js, Express.js, and databases** while working on real-world projects.
+
+I'm passionate about writing clean, maintainable code and building scalable web applications. I’m continuously learning new technologies and improving my problem-solving skills to become a better software engineer.
+
+- 👋 Hi, I am <a href="https://github.com/fayzur030">fayzur030</a>
+- 🚀 Currently working on **React.js & TypeScript** for frontend development
+- ⚛️ Building modern web applications with **React.js & Next.js**
+- 🎨 Creating responsive interfaces with **Tailwind CSS**
+- 🔧 Exploring **Node.js & Express.js** for backend development
+- 🗄️ Learning and working with **MongoDB**
+- 📚 Continuously improving my **JavaScript & TypeScript** skills
+- 💡 Interested in building clean, scalable, and maintainable applications
+- 📥 Feel free to reach me: <a href="mailto:mdfayzurrahman030@gmail.com">Email</a>
+
+
+<!-- ======================= TECHNOLOGY STACK ======================= -->
+
+## 🛠️ Technology Stack
+
+### 💻 Languages
+
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=html" height="50" alt="HTML" />
+  &nbsp;&nbsp;
+  <img src="https://skillicons.dev/icons?i=css" height="50" alt="CSS" />
+  &nbsp;&nbsp;
+  <img src="https://skillicons.dev/icons?i=javascript" height="50" alt="JavaScript" />
+  &nbsp;&nbsp;
+  <img src="https://skillicons.dev/icons?i=typescript" height="50" alt="TypeScript" />
+</p>
+
+### 🎨 CSS Framework & Libraries
+
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=tailwind" height="50" alt="Tailwind CSS" />
+</p>
+
+### ⚛️ JavaScript Frameworks & Libraries
+
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=react" height="50" alt="React.js" />
+  &nbsp;&nbsp;
+  <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/NextJS-Dark.svg" height="50" alt="Next.js" />
+  &nbsp;&nbsp;
+  <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/NodeJS-Dark.svg" height="50" alt="Node.js" />
+  &nbsp;&nbsp;
+  <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/ExpressJS-Dark.svg" height="50" alt="Express.js" />
+  &nbsp;&nbsp;
+  <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Redux.svg" height="50" alt="Redux" />
+</p>
+
+### 🗄️ Database
+
+<p align="left">
+  <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/MongoDB.svg" height="50" alt="MongoDB" />
+</p>
+
+### 🚀 Deployment Platforms
+
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=vercel" height="50" alt="Vercel" />
+  &nbsp;&nbsp;
+  <img src="https://skillicons.dev/icons?i=netlify" height="50" alt="Netlify" />
+  &nbsp;&nbsp;
+  <img src="https://skillicons.dev/icons?i=render" height="50" alt="Render" />
+  &nbsp;&nbsp;
+  <img src="https://skillicons.dev/icons?i=railway" height="50" alt="Railway" />
+</p>
+
+### 🧰 Tools
+
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=git" height="50" alt="Git" />
+  &nbsp;&nbsp;
+  <img src="https://skillicons.dev/icons?i=github" height="50" alt="GitHub" />
+  &nbsp;&nbsp;
+  <img src="https://skillicons.dev/icons?i=vscode" height="50" alt="VS Code" />
+  &nbsp;&nbsp;
+  <img src="https://skillicons.dev/icons?i=npm" height="50" alt="NPM" />
+</p>
+
+
+<!-- ======================= CURRENTLY WORKING ON ======================= -->
+
+## 🚀 Currently Working On
+
+- 🔥 Building projects with **React.js & TypeScript**
+- ⚡ Exploring **Next.js**
+- 🛠️ Learning **Node.js & Express.js**
+- 🗄️ Learning **MongoDB & REST APIs**
+- 📚 Improving my **Full-Stack Development** skills
+
+
+<!-- ======================= Location ======================= -->
+
+
+## 📍 Location & Contact : 
+
+- **Location:** Dhaka, Bangladesh 
+- 📧 **Email:** mdfayzurrahman030@gmail.com
+
+<!-- ======================= CONNECT ======================= -->
+
+## 🌐 Connect With Me
+
+<p align="center">
+
+<a href="https://www.linkedin.com/in/md-fayzur-rahman-00a673380/">
+  <img src="https://skillicons.dev/icons?i=linkedin" height="45" alt="LinkedIn" />
+</a>
+&nbsp;&nbsp;&nbsp;
+
+<a href="https://github.com/fayzur030">
+  <img src="https://skillicons.dev/icons?i=github" height="45" alt="GitHub" />
+</a>
+&nbsp;&nbsp;&nbsp;
+
+<a href="https://mail.google.com/mail/?view=cm&fs=1&to=mdfayzurrahman030@gmail.com">
+  <img
+    src="https://img.icons8.com/color/48/gmail-new.png"
+    height="45"
+    alt="Email"
+  />
+</a>
+
+</p>
+
+
+<!-- ======================= GITHUB STATS ======================= -->
+
+
+## 📊 GitHub Stats
+
+<p align="center">
+  <img
+    src="https://github-readme-stats.shion.dev/api?username=fayzur030&theme=tokyonight&hide_border=true&include_all_commits=false&count_private=false"
+    width="42%"
+  />
+  &nbsp;&nbsp;&nbsp;&nbsp;
+  <img
+    src="https://streak-stats.demolab.com/?user=fayzur030&theme=tokyonight&hide_border=true"
+    width="46%"
+  />
+</p>
+
+<!-- <p align="center"> -->
+  <!-- <img
+    src="https://github-readme-stats.shion.dev/api?username=fayzur030&theme=tokyonight&hide_border=true&include_all_commits=false&count_private=false"
+    height="180"
+    alt="GitHub Stats"
+  />
+  &nbsp;&nbsp;&nbsp;
+  <img
+    src="https://streak-stats.demolab.com/?user=fayzur030&theme=tokyonight&hide_border=true"
+    height="180"
+    alt="GitHub Streak"
+  />
+  &nbsp;&nbsp;&nbsp; -->
+  <!-- <img
+    src="https://github-readme-stats.shion.dev/api/top-langs/?username=fayzur030&theme=tokyonight&hide_border=true&include_all_commits=false&count_private=false&layout=compact"
+    height="180"
+    alt="Top Languages"
+  /> 
+</p>
+
+
+<!-- <p align="center"> -->
+  <!-- <img
+    src="https://github-readme-stats.shion.dev/api?username=fayzur030&theme=tokyonight&hide_border=false&include_all_commits=false&count_private=false"
+    height="180"
+    alt="GitHub Stats"
+  />
+  &nbsp;&nbsp;&nbsp;
+  <img
+    src="https://streak-stats.demolab.com/?user=fayzur030&theme=tokyonight&hide_border=false"
+    height="180"
+    alt="GitHub Streak"
+  />
+  &nbsp;&nbsp;&nbsp;
+  <img
+    src="https://github-readme-stats.shion.dev/api/top-langs/?username=fayzur030&theme=tokyonight&hide_border=false&include_all_commits=false&count_private=false&layout=compact"
+    height="180"
+    alt="Top Languages"
+  /> -->
+<!-- </p> -->
+
+
+
+
+
+
+<!-- ======================= ACTIVITY ======================= -->
+
+
+
+<!-- ======================= CONTRIBUTION SNAKE ======================= -->
+
+## 🐍 GitHub Contribution Snake
+
+<p align="center">
+  <img
+    src="https://raw.githubusercontent.com/Sutil/Sutil/2b2fad3bf54522bb30c8c170591fc68ff51b69e6/github-contribution-grid-snake2.svg"
+    alt="GitHub Contribution Snake"
+    width="100%"
+  />
+</p>
+
+
+<!-- ======================= FEATURED PROJECTS ======================= -->
+
+## 🚀 Featured Projects
+
+### 🍳 Recipe Finder
+
+A modern and responsive recipe-finding web app built with **React.js** and **REST API**. Users can search and explore recipes through a clean and user-friendly interface.
+
+**Tech Stack:** React.js • JavaScript • Tailwind CSS • REST API
+
+**Features:**
+- 🔍 Recipe search
+- 🍽️ Recipe browsing
+- 📖 Recipe details
+- ⚡ API integration
+- 📱 Responsive design
+- 🔄 Loading state
+- ❌ Error handling
+
+🔗 **Live Demo:** <a href="https://fayzur-recipe-finder-application.netlify.app/">View Project</a>
+
+### 🎬 Movie Application
+
+A modern and responsive movie application that allows users to explore movies, view movie details, and discover popular and trending content through API integration.
+
+**Tech Stack:** React.js • TypeScript • Tailwind CSS • REST API
+
+**Features:**
+
+- 🎬 Movie listing
+- 🔍 Movie search
+- 🔌 REST API integration
+- ⭐ Popular & trending movies
+- 📄 Movie details
+- 📱 Responsive design
+- ♻️ Reusable components
+
+🔗 **Live Demo:**  <a href="https://movie-app-swart-six-28.vercel.app/">View Project</a>
+
+### 📝 Todo Application
+
+A modern and responsive todo application that allows users to create, manage, update, and delete tasks with a clean and user-friendly interface.
+
+**Tech Stack:** React.js • TypeScript • Tailwind CSS
+
+**Features:**
+
+- ➕ Add new tasks
+- ✏️ Edit tasks
+- 🗑️ Delete tasks
+- ✅ Mark tasks as completed
+- 📋 Manage todo list
+- 📱 Responsive design
+- ♻️ Reusable components
+
+🔗 **Live Demo:** <a href="https://todo-app-sage-six-10.vercel.app/">View Project</a>
+
+### 🛒 E-Commerce Application
+
+A modern and responsive e-commerce application with product listing, API integration, and a clean user interface.
+
+**Tech Stack:** React.js • TypeScript • Tailwind CSS • REST API
+
+**Features:**
+- 🛍️ Product listing
+- 🔌 REST API integration
+- 📱 Responsive design
+- 📦 Product details
+- ♻️ Reusable components
+
+🔗 **Live Demo:** <a href="https://fayzur-ecommerce.netlify.app/">View Project</a>
+
+
+<!-- ======================= GOALS ======================= -->
+
+## 🎯 Goals
+
+- 🚀 Become a professional Full-Stack Web Developer
+- ⚛️ Master React.js & Next.js
+- 🟦 Improve TypeScript skills
+- 🛠️ Build scalable backend applications
+- 🗄️ Become proficient with databases
+- 🌎 Contribute to open-source projects
+- 🤝 Collaborate on real-world projects
+
+
+<!-- ======================= FOOTER ======================= -->
+
+<p align="center">
+  <b>Thanks for visiting my profile! ❤️</b>
+</p>
+
+<p align="center">
+  <i>Let's build something amazing together 🚀</i>
+</p>
