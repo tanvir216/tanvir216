@@ -79,6 +79,18 @@ Node.js       █████████░░░░░░░░░░░  45%
 MongoDB       ████████░░░░░░░░░░░░  40%
 ```
 
+<!-- ======================= CONTRIBUTION SNAKE ======================= -->
+
+## 🐍 Contribution Snake
+
+<div align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/tanvir216/tanvir216/output/github-snake-dark.svg" />
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/tanvir216/tanvir216/output/github-snake.svg" />
+    <img alt="Contribution Snake" src="https://raw.githubusercontent.com/tanvir216/tanvir216/output/github-snake-dark.svg" width="100%" />
+  </picture>
+</div>
+
 <!-- ======================= FEATURED PROJECTS ======================= -->
 
 ## ⭐ Featured Projects
