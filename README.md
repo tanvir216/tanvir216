@@ -1,289 +1,162 @@
 <!-- ======================= HEADER ======================= -->
 
-<p align="center">
-  <img
-    src="https://raw.githubusercontent.com/tanvir216/tanvir216/main/ChatGPT Image Sep 3, 2026, 04_36_57 AM.png"
-    alt="Md. Tanvir Ahammed Mizan"
-  />
-</p>
+<div align="center">
 
-<h1 align="center">
-  Hi 👋, I'm Md. Tanvir A Mizan
-</h1>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=230&section=header&text=Md.%20Tanvir%20Ahammed%20Mizan&fontSize=38&fontAlignY=36&animation=fadeIn&desc=Full-Stack%20Web%20Developer%20%7C%20Dhaka%2C%20Bangladesh&descSize=16&descAlignY=58" alt="Header" width="100%" />
 
+<a href="https://github.com/tanvir216">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1200&color=818CF8&center=true&vCenter=true&width=650&lines=Hi+%F0%9F%91%8B+I'm+Tanvir;Full-Stack+Web+Developer;React+%7C+Next.js+%7C+TypeScript;Building+clean+%26+scalable+web+apps" alt="Typing SVG" />
+</a>
 
+<br/>
 
-<!-- <p align="center">
-  <a href="https://github.com/tanvir216">
-    <img
-      src="https://img.shields.io/github/followers/tanvir216?label=Followers&style=for-the-badge"
-      alt="GitHub Followers"
-    />
-  </a>
-  <img
-    src="https://komarev.com/ghpvc/?username=tanvir216&label=Profile%20Views&color=6366F1&style=for-the-badge"
-    alt="Profile Views"
-  />
-</p> -->
+![Profile Views](https://komarev.com/ghpvc/?username=tanvir216&label=Profile%20Views&color=6366F1&style=for-the-badge)
+![Followers](https://img.shields.io/github/followers/tanvir216?label=Followers&style=for-the-badge&color=8B5CF6)
+![Location](https://img.shields.io/badge/Dhaka-Bangladesh-0EA5E9?style=for-the-badge&logo=googlemaps&logoColor=white)
 
+</div>
+
+<br/>
 
 <!-- ======================= ABOUT ME ======================= -->
 
 ## 👨‍💻 About Me
 
-I'm **Md. Tanvir Ahammed Mizan **, a passionate **Full-Stack Web Developer** from Bangladesh.
+```js
+const tanvir = {
+  name: "Md. Tanvir Ahammed Mizan",
+  role: "Full-Stack Web Developer",
+  location: "Dhaka, Bangladesh 🇧🇩",
+  currentlyLearning: ["Next.js", "Node.js", "Express.js", "MongoDB"],
+  currentlyBuilding: "Modern apps with React.js & TypeScript",
+  focus: ["Clean code", "Responsive UI", "Scalable apps"],
+  funFact: "I debug with console.log() and I'm not ashamed 😄",
+  openTo: ["Collaboration", "Open-source", "Real-world projects"],
+};
+```
 
-I enjoy building modern, responsive, and user-friendly web applications from frontend to backend. Currently, I'm focusing on strengthening my skills in **JavaScript, TypeScript, React.js, Next.js, Node.js, Express.js, and databases** while working on real-world projects.
+I enjoy building modern, responsive and user-friendly web applications from frontend to backend. I'm constantly learning new technologies and sharpening my problem-solving skills to grow into a better software engineer.
 
-I'm passionate about writing clean, maintainable code and building scalable web applications. I’m continuously learning new technologies and improving my problem-solving skills to become a better software engineer.
+<!-- ======================= TECH STACK ======================= -->
 
-- 👋 Hi, I am <a href="https://github.com/tanvir216">tanvir216</a>
-- 🚀 Currently working on **React.js & TypeScript** for frontend development
-- ⚛️ Building modern web applications with **React.js & Next.js**
-- 🎨 Creating responsive interfaces with **Tailwind CSS**
-- 🔧 Exploring **Node.js & Express.js** for backend development
-- 🗄️ Learning and working with **MongoDB**
-- 📚 Continuously improving my **JavaScript & TypeScript** skills
-- 💡 Interested in building clean, scalable, and maintainable applications
-- 📥 Feel free to reach me: <a href="mailto:tanvirahammed8000@gmail.com">Email</a>
+## 🛠️ Tech Stack
 
+<div align="center">
 
-<!-- ======================= TECHNOLOGY STACK ======================= -->
+| Category | Technologies |
+| :--- | :--- |
+| 💻 **Languages** | <img src="https://skillicons.dev/icons?i=html,css,js,ts" alt="languages" /> |
+| ⚛️ **Frontend** | <img src="https://skillicons.dev/icons?i=react,nextjs,redux,tailwind" alt="frontend" /> |
+| 🔧 **Backend** | <img src="https://skillicons.dev/icons?i=nodejs,express" alt="backend" /> |
+| 🗄️ **Database** | <img src="https://skillicons.dev/icons?i=mongodb" alt="database" /> |
+| 🚀 **Deployment** | <img src="https://skillicons.dev/icons?i=vercel,netlify,railway" alt="deployment" /> |
+| 🧰 **Tools** | <img src="https://skillicons.dev/icons?i=git,github,vscode,npm" alt="tools" /> |
 
-## 🛠️ Technology Stack
+</div>
 
-### 💻 Languages
-
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=html" height="50" alt="HTML" />
-  &nbsp;&nbsp;
-  <img src="https://skillicons.dev/icons?i=css" height="50" alt="CSS" />
-  &nbsp;&nbsp;
-  <img src="https://skillicons.dev/icons?i=javascript" height="50" alt="JavaScript" />
-  &nbsp;&nbsp;
-  <img src="https://skillicons.dev/icons?i=typescript" height="50" alt="TypeScript" />
-</p>
-
-### 🎨 CSS Framework & Libraries
-
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=tailwind" height="50" alt="Tailwind CSS" />
-</p>
-
-### ⚛️ JavaScript Frameworks & Libraries
-
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=react" height="50" alt="React.js" />
-  &nbsp;&nbsp;
-  <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/NextJS-Dark.svg" height="50" alt="Next.js" />
-  &nbsp;&nbsp;
-  <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/NodeJS-Dark.svg" height="50" alt="Node.js" />
-  &nbsp;&nbsp;
-  <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/ExpressJS-Dark.svg" height="50" alt="Express.js" />
-  &nbsp;&nbsp;
-  <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Redux.svg" height="50" alt="Redux" />
-</p>
-
-### 🗄️ Database
-
-<p align="left">
-  <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/MongoDB.svg" height="50" alt="MongoDB" />
-</p>
-
-### 🚀 Deployment Platforms
-
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=vercel" height="50" alt="Vercel" />
-  &nbsp;&nbsp;
-  <img src="https://skillicons.dev/icons?i=netlify" height="50" alt="Netlify" />
-  &nbsp;&nbsp;
-  <img src="https://skillicons.dev/icons?i=render" height="50" alt="Render" />
-  &nbsp;&nbsp;
-  <img src="https://skillicons.dev/icons?i=railway" height="50" alt="Railway" />
-</p>
-
-### 🧰 Tools
-
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=git" height="50" alt="Git" />
-  &nbsp;&nbsp;
-  <img src="https://skillicons.dev/icons?i=github" height="50" alt="GitHub" />
-  &nbsp;&nbsp;
-  <img src="https://skillicons.dev/icons?i=vscode" height="50" alt="VS Code" />
-  &nbsp;&nbsp;
-  <img src="https://skillicons.dev/icons?i=npm" height="50" alt="NPM" />
-</p>
-
-
-<!-- ======================= CURRENTLY WORKING ON ======================= -->
+<!-- ======================= CURRENTLY ======================= -->
 
 ## 🚀 Currently Working On
 
-- 🔥 Building projects with **React.js & TypeScript**
-- ⚡ Exploring **Next.js**
-- 🛠️ Learning **Node.js & Express.js**
-- 🗄️ Learning **MongoDB & REST APIs**
-- 📚 Improving my **Full-Stack Development** skills
+<div align="center">
 
+| 🔥 Now | ⚡ Exploring | 📚 Learning |
+| :---: | :---: | :---: |
+| React.js + TypeScript projects | Next.js | Node.js & Express.js |
+| Responsive UI with Tailwind | Server-side rendering | MongoDB & REST APIs |
 
-<!-- ======================= Location ======================= -->
+</div>
 
+### 📈 Learning Progress
 
-## 📍 Location & Contact : 
-
-- **Location:** Dhaka, Bangladesh 
-- 📧 **Email:** tanvirahammed8000@gmail.com
-
-<!-- ======================= CONNECT ======================= -->
-
-## 🌐 Connect With Me
-
-<p align="center">
-
-<a href="www.linkedin.com/in/md-tanvir-ahammed-mizan-4aa302431">
-  <img src="https://skillicons.dev/icons?i=linkedin" height="45" alt="LinkedIn" />
-</a>
-&nbsp;&nbsp;&nbsp;
-
-<a href="https://github.com/tanvir216">
-  <img src="https://skillicons.dev/icons?i=github" height="45" alt="GitHub" />
-</a>
-&nbsp;&nbsp;&nbsp;
-
-<a href="https://mail.google.com/mail/?view=cm&fs=1&to=tanvirahammed8000@gmail.com">
-  <img
-    src="https://img.icons8.com/color/48/gmail-new.png"
-    height="45"
-    alt="Email"
-  />
-</a>
-
-</p>
-
-
-<!-- ======================= GITHUB STATS ======================= -->
-
-
-## 📊 GitHub Stats
-
-<p align="center">
-  <img
-    src="https://github-readme-stats.shion.dev/api?username=tanvir216&theme=tokyonight&hide_border=true&include_all_commits=false&count_private=false"
-    width="42%"
-  />
-  &nbsp;&nbsp;&nbsp;&nbsp;
-  <img
-    src="https://streak-stats.demolab.com/?user=tanvir216&theme=tokyonight&hide_border=true"
-    width="46%"
-  />
-</p>
-
-<!-- <p align="center"> -->
-  <!-- <img
-    src="https://github-readme-stats.shion.dev/api?username=tanvir216&theme=tokyonight&hide_border=true&include_all_commits=false&count_private=false"
-    height="180"
-    alt="GitHub Stats"
-  />
-  &nbsp;&nbsp;&nbsp;
-  <img
-    src="https://streak-stats.demolab.com/?user=tanvir216&theme=tokyonight&hide_border=true"
-    height="180"
-    alt="GitHub Streak"
-  />
-  &nbsp;&nbsp;&nbsp; -->
-  <!-- <img
-    src="https://github-readme-stats.shion.dev/api/top-langs/?username=tanvir216&theme=tokyonight&hide_border=true&include_all_commits=false&count_private=false&layout=compact"
-    height="180"
-    alt="Top Languages"
-  /> 
-</p>
-
-
-<!-- <p align="center"> -->
-  <!-- <img
-    src="https://github-readme-stats.shion.dev/api?username=tanvir216&theme=tokyonight&hide_border=false&include_all_commits=false&count_private=false"
-    height="180"
-    alt="GitHub Stats"
-  />
-  &nbsp;&nbsp;&nbsp;
-  <img
-    src="https://streak-stats.demolab.com/?user=tanvir216&theme=tokyonight&hide_border=false"
-    height="180"
-    alt="GitHub Streak"
-  />
-  &nbsp;&nbsp;&nbsp;
-  <img
-    src="https://github-readme-stats.shion.dev/api/top-langs/?username=tanvir216&theme=tokyonight&hide_border=false&include_all_commits=false&count_private=false&layout=compact"
-    height="180"
-    alt="Top Languages"
-  /> -->
-<!-- </p> -->
-
-
-
-
-
-
-<!-- ======================= ACTIVITY ======================= -->
-
-
-
-<!-- ======================= CONTRIBUTION SNAKE ======================= -->
-
-## 🐍 GitHub Contribution Snake
-
-<p align="center">
-  <img
-    src="https://raw.githubusercontent.com/Sutil/Sutil/2b2fad3bf54522bb30c8c170591fc68ff51b69e6/github-contribution-grid-snake2.svg"
-    alt="GitHub Contribution Snake"
-    width="100%"
-  />
-</p>
-
+```text
+React.js      ████████████████░░░░  80%
+JavaScript    █████████████████░░░  85%
+TypeScript    ████████████░░░░░░░░  60%
+Tailwind CSS  █████████████████░░░  85%
+Next.js       ██████████░░░░░░░░░░  50%
+Node.js       █████████░░░░░░░░░░░  45%
+MongoDB       ████████░░░░░░░░░░░░  40%
+```
 
 <!-- ======================= FEATURED PROJECTS ======================= -->
 
-## 🚀 Featured Projects
+## ⭐ Featured Projects
+
+<div align="center">
+
+<table>
+  <tr>
+    <td>
 
 ### 🍳 Recipe Finder
 
-A modern and responsive recipe-finding web app built with **React.js** and **REST API**. Users can search and explore recipes through a clean and user-friendly interface.
+A modern, responsive recipe-finding web app. Users can search, browse and explore recipe details through a clean interface.
 
-**Tech Stack:** React.js • JavaScript • Tailwind CSS • REST API
+**🔍 Search** • **🍽️ Browse** • **📖 Details** • **📱 Responsive** • **⚡ API** • **🔄 Loading state** • **❌ Error handling**
 
-**Features:**
-- 🔍 Recipe search
-- 🍽️ Recipe browsing
-- 📖 Recipe details
-- ⚡ API integration
-- 📱 Responsive design
-- 🔄 Loading state
-- ❌ Error handling
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![Tailwind](https://img.shields.io/badge/Tailwind-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white)
+![REST API](https://img.shields.io/badge/REST%20API-6366F1?style=for-the-badge&logo=fastapi&logoColor=white)
 
- 🔗 **Live Demo:** [View Project](https://versityreport.lovable.app/)
+[![Live Demo](https://img.shields.io/badge/🔗%20Live%20Demo-View%20Project-22C55E?style=for-the-badge)](https://versityreport.lovable.app/)
 
+</td>
+  </tr>
+</table>
 
+</div>
 
+<!-- ======================= GITHUB STATS ======================= -->
+
+## 📊 GitHub Stats
+
+<div align="center">
+
+<img src="https://github-readme-stats.shion.dev/api?username=tanvir216&theme=tokyonight&hide_border=true&include_all_commits=false&count_private=false&show_icons=true" width="48%" alt="GitHub Stats" />
+<img src="https://streak-stats.demolab.com/?user=tanvir216&theme=tokyonight&hide_border=true" width="48%" alt="GitHub Streak" />
+
+<br/>
+
+<img src="https://github-readme-stats.shion.dev/api/top-langs/?username=tanvir216&theme=tokyonight&hide_border=true&layout=compact" width="48%" alt="Top Languages" />
+
+</div>
 
 <!-- ======================= GOALS ======================= -->
 
 ## 🎯 Goals
 
-- 🚀 Become a professional Full-Stack Web Developer
-- ⚛️ Master React.js & Next.js
-- 🟦 Improve TypeScript skills
-- 🛠️ Build scalable backend applications
-- 🗄️ Become proficient with databases
-- 🌎 Contribute to open-source projects
-- 🤝 Collaborate on real-world projects
+- [ ] 🚀 Become a professional Full-Stack Web Developer
+- [ ] ⚛️ Master React.js & Next.js
+- [ ] 🟦 Get strong at TypeScript
+- [ ] 🛠️ Build scalable backend applications
+- [ ] 🗄️ Become proficient with databases
+- [ ] 🌎 Contribute to open-source projects
+- [ ] 🤝 Collaborate on real-world projects
 
+<!-- ======================= CONNECT ======================= -->
+
+## 🌐 Let's Connect
+
+<div align="center">
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/md-tanvir-ahammed-mizan-4aa302431)
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/tanvir216)
+[![Gmail](https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:tanvirahammed8000@gmail.com)
+
+</div>
 
 <!-- ======================= FOOTER ======================= -->
 
-<p align="center">
-  <b>Thanks for visiting my profile! ❤️</b>
-</p>
+<div align="center">
 
-<p align="center">
-  <i>Let's build something amazing together 🚀</i>
-</p>
+<br/>
+
+**Thanks for visiting my profile! ❤️**
+
+*"Let's build something amazing together 🚀"*
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=120&section=footer" width="100%" alt="Footer" />
+
+</div>
