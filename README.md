@@ -2,8 +2,7 @@
 
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=230&section=header&text=Md.%20Tanvir%20Ahammed%20Mizan&fontSize=38&fontAlignY=36&animation=fadeIn&desc=Full-Stack%20Web%20Developer%20%7C%20Dhaka%2C%20Bangladesh&descSize=16&descAlignY=58" alt="Header" width="100%" />
-
+<img src="https://raw.githubusercontent.com/tanvir216/tanvir216/main/ChatGPT Image Sep 3, 2026, 04_36_57 AM.png" alt="Md. Tanvir Ahammed Mizan - Full Stack Web Developer" width="100%" />
 <a href="https://github.com/tanvir216">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1200&color=818CF8&center=true&vCenter=true&width=650&lines=Hi+%F0%9F%91%8B+I'm+Tanvir;Full-Stack+Web+Developer;React+%7C+Next.js+%7C+TypeScript;Building+clean+%26+scalable+web+apps" alt="Typing SVG" />
 </a>
